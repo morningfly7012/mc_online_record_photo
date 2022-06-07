@@ -1,0 +1,2 @@
+# mc_online_record_photo
+mc_online_record的延伸 可以把統計出來的資料變成圖片
